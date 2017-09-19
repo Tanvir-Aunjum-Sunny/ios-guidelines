@@ -1,4 +1,4 @@
-# testflight-distribution-guidelines-ios
+# iOS Guidelines
 
 Lists guidelines for design, development and distribution of our iOS apps. This is an attempt to clearly document the conventions used and encourage best practices that accomplish following goals:
 
