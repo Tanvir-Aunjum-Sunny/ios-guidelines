@@ -14,27 +14,27 @@
 
 - __Validate inline__, instead of displaying modals or alerts.  
 
-...*[This](https://alistapart.com/article/inline-validation-in-web-forms) study provides quantitive insights into the benefits of real-time, inline validation.*  
+   *[This](https://alistapart.com/article/inline-validation-in-web-forms) study provides quantitive insights into the benefits of real-time, inline validation.*  
 
 - Use placeholders and helper text to indicate the type of input expected.
 
 - Indicate errors by means of color and error text.   
 
-...*[Google's Material Design Guidelines](https://material.io/guidelines/patterns/errors.html#errors-user-input-errors) do a good job of demonstrating patterns for displaying errors in input fields.* 
+   *[Google's Material Design Guidelines](https://material.io/guidelines/patterns/errors.html#errors-user-input-errors) do a good job of demonstrating patterns for displaying errors in input fields.* 
 
 #### Addresses
 
 - Provide alternatives to typing the entire address. On iOS this can be achieved by:
 
-...1. Current User Location (this'll need the user to granting location based permissions)
-...2. Add from Addressbook (this'll need the user granting permissions to access the AddressBook)
-...3. MapKit's autocomplete API
+   1. Current User Location (this'll need the user to granting location based permissions)
+   2. Add from Addressbook (this'll need the user granting permissions to access the AddressBook)
+   3. MapKit's autocomplete API
 
 - Allow the user to alter or modify any of the fields populated using any of the options above. 
 
 - Allow the user to manually type their address if they choose to not use any of the options above.
 
-...*[This SO question](https://stackoverflow.com/questions/134956/how-do-you-perform-address-validation) lists several approaches  address standardization including Google's or Yahoo's geocoding web services for, USPS API or numerous 3rd party services. The clear advantage of using native solutions over using 3rd party services is that native options are more performant and minimally dependent on the network connectivity.*
+   *[This SO question](https://stackoverflow.com/questions/134956/how-do-you-perform-address-validation) lists several approaches  address standardization including Google's or Yahoo's geocoding web services for, USPS API or numerous 3rd party services. The clear advantage of using native solutions over using 3rd party services is that native options are more performant and minimally dependent on the network connectivity.*
 
 Specific Fields can be validated based on rules as under:
 
