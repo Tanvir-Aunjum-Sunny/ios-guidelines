@@ -36,7 +36,7 @@
 
    *[This SO question](https://stackoverflow.com/questions/134956/how-do-you-perform-address-validation) lists several approaches  address standardization including Google's or Yahoo's geocoding web services for, USPS API or numerous 3rd party services. The clear advantage of using native solutions over using 3rd party services is that native options are more performant and minimally dependent on the network connectivity.*
 
-Specific Fields can be validated based on rules as under:
+Specific address fields can be validated based on rules as under:
 
 - **Address 1**: This is meant for street and number, PO box etc. I think its best to keep client side validations to a minimum. Allow for alphanumeric and special characters. This field is **required** and must be **minimum 5 characters**.  
 
