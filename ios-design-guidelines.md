@@ -38,15 +38,15 @@
 
 Specific Fields can be validated based on rules as under:
 
-- *Address 1*: This is meant for street and number, PO box etc. I think its best to keep client side validations to a minimum. Allow for alphanumeric and special characters. This field is **required** and must be **minimum 5 characters**.  
+- **Address 1**: This is meant for street and number, PO box etc. I think its best to keep client side validations to a minimum. Allow for alphanumeric and special characters. This field is **required** and must be **minimum 5 characters**.  
 
-- *Address 2*: This field is meant for apartment, suite, building, floor etc. Like address 1, I think its best to keep validations to a minimum and allow alphanumeric and special characters. This field is **optional** and **minimum 5 characters** (if entered).    
+- **Address 2**: This field is meant for apartment, suite, building, floor etc. Like address 1, I think its best to keep validations to a minimum and allow alphanumeric and special characters. This field is **optional** and **minimum 5 characters** (if entered).    
 
-- *City*: City is **required**, **letters** only and **minimum 2 characters**. 
+- **City**: City is **required**, **letters** only and **minimum 2 characters**. 
 
-- *State*: State is **required** and selectable from list (this prevents invalid entry). 
+- **State**: State is **required** and selectable from list (this prevents invalid entry). 
 
-- *Zip*: Zip code is **required**, **numeric** and must always be **5 digits**.
+- **Zip**: Zip code is **required**, **numeric** and must always be **5 digits**.
 
 
 ### Authentication
