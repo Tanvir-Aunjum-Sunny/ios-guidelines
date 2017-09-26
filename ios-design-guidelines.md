@@ -20,7 +20,7 @@
 
 - Indicate errors by means of color and error text.   
 
-   *[Google's Material Design Guidelines](https://material.io/guidelines/patterns/errors.html#errors-user-input-errors) do a good job of demonstrating patterns for displaying errors in input fields.* 
+   *[Google's Material Design Guidelines](https://material.io/guidelines/patterns/errors.html#errors-user-input-errors) does a good job of demonstrating patterns for displaying errors in input fields.* 
 
 #### Addresses
 
@@ -34,9 +34,9 @@
 
 - Allow the user to manually type their address if they choose to not use any of the options above.
 
-   *[This SO question](https://stackoverflow.com/questions/134956/how-do-you-perform-address-validation) lists several approaches  address standardization including Google's or Yahoo's geocoding web services for, USPS API or numerous 3rd party services. The clear advantage of using native solutions over using 3rd party services is that native options are more performant and minimally dependent on the network connectivity.*
+   *[This SO question](https://stackoverflow.com/questions/134956/how-do-you-perform-address-validation) lists several approaches towards address standardization including Google/Yahoo's geocoding web services, USPS API or numerous 3rd party services. The clear advantage of using native APIs over these is that native APIs are more performant and minimally dependent on network connectivity.*
 
-Specific address fields can be validated based on rules as under:
+Specific address fields can be validated based on these rules:
 
 - **Address 1**: This is meant for street and number, PO box etc. I think its best to keep client side validations to a minimum. Allow for alphanumeric and special characters. This field is **required** and must be **minimum 5 characters**.  
 
