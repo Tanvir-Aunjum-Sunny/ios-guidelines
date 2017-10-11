@@ -22,9 +22,7 @@ Please ensure that the email is a primary email for the Apple ID, with associate
 
 - On tapping `Accept`. You'll be taken to Sign In Screen. Please verify that you can successfully Sign In.
 
-![Welcome new iTunes Connect User](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0072.PNG)
-
-![Terms of Service](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0073.PNG)
+![Welcome new iTunes Connect User](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0072.PNG) ![Terms of Service](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0073.PNG)
 
 
 ##### 3. TestFlight
@@ -35,16 +33,13 @@ Please ensure that the email is a primary email for the Apple ID, with associate
 
 - Select `Allow Push Notifications`. Doing this will ensure that you’ll receive notifications every time a new version on the app is pushed.
 
-![testflight](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0076.PNG)
-
-![TestFlight Terms and Conditions](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0079.PNG)
-
-![Allow Push Notifications](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0080.PNG)
+![testflight](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0076.PNG) ![TestFlight Terms and Conditions](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0079.PNG) ![Allow Push Notifications](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0080.PNG)
 
 
 ##### 4. Wait!
 
 - Once you've completed all the steps above you're all set to recieve builds whenever a new one is posted.
+
 
 ##### 5. Installation
 
@@ -53,6 +48,7 @@ Please ensure that the email is a primary email for the Apple ID, with associate
 - Tap `Start Testing` and `Accept` and `Install`. 
 <img>
 - The App will be downloaded with an orange mark next to its name to indicate a test build.
+
 
 ##### 6. Subsequent Builds
 
@@ -66,7 +62,6 @@ Apple specifies the following rules for valid version and build numbers in [Tech
 - The value for a version number or build number must consist only of '.'s and numbers and must begin and end with a number. 
 - Each integer value separated by a period is a component of the version. Version numbers and build numbers may have up to three components separated by periods. 
 - The total number of characters in your version number or in your build number cannot exceed eighteen characters.`
-
 
 Apple doesn't define or require a specific convention for what eacr of the components in the version/build numbers are supposed to signify. In keeping with [semantic versioning](http://semver.org), here's what we do:
 
