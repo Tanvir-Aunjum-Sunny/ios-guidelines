@@ -16,32 +16,31 @@ Please ensure that the email is a primary email for the Apple ID, with associate
 
 ##### 2. iTunes Connect
 
-- You will recieve an invite from iTunes Connect with the subject `Welcome new iTunes Connect User`. Please tap `Activate your account`
-
-
-![Welcome new iTunes Connect User](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0072.PNG)
-
+- You will recieve an invite from iTunes Connect with the subject `Welcome new iTunes Connect User`. Please tap `Activate your account`.
 
 - That'll launch Safari and display the iTunes Connect `Terms of Service`.
 
+- On tapping `Accept`. You'll be taken to Sign In Screen. Please verify that you can successfully Sign In.
+
+![Welcome new iTunes Connect User](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0072.PNG)
+
 ![Terms of Service](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0073.PNG)
 
-
-- On tapping `Accept`. You'll be taken to Sign In Screen. Please verify that you can successfully Sign In. 
 
 ##### 3. TestFlight
 
 - Install the `TestFlight` App from the App Store. You can find it by following [this link] (https://itunes.apple.com/us/app/testflight/id899247664?mt=8) or by searching for ‘testflight’ in the App Store. 
 
-![testflight](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0076.PNG)
-
 - Lauch TestFlight and accept the `Terms & Conditions`.
-
-![TestFlight Terms and Conditions](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0079.PNG)
 
 - Select `Allow Push Notifications`. Doing this will ensure that you’ll receive notifications every time a new version on the app is pushed.
 
+![testflight](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0076.PNG)
+
+![TestFlight Terms and Conditions](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0079.PNG)
+
 ![Allow Push Notifications](https://github.com/nrccua/testflight-distribution-guidelines-ios/blob/master/images/IMG_0080.PNG)
+
 
 ##### 4. Wait!
 
