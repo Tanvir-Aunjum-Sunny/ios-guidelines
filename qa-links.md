@@ -24,6 +24,7 @@
 - [All Articles](https://v74ej.app.goo.gl/EawQ)
 - [7 Tips for Appealing an Admissions Decision](https://v74ej.app.goo.gl/vL1T)
 - [Passing the Time While Waiting for Admissions News](https://v74ej.app.goo.gl/Nqco)
+- [Your Major May](https://h938n.app.goo.gl/cffF)
 
 #### Profile
 
