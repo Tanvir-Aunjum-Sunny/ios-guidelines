@@ -71,4 +71,17 @@ Apple doesn't define or require a specific convention for what eacr of the compo
 - Smaller releases introducing new features and UI changes will increment `MINOR`
 - Bug Fixes and non-visual changes will increment `PATCH`
 
+## App Store Deployment Workflow
+
+1. Complete all feature development assigned to the version to be deployed in the dev environment.
+2. Post a release candidate (RC) build that points to the prod environment.
+3. Carry out thorough regression testing to ensire all features perform as expected. If bugs discovered, log them to the bug bucket. 
+4. Determine if non-fatal bugs need to be addressed in the current release. If yes, address them and start over from Step 2. Otherwise, assign them to the next minor version and add to backlog.
+4. Obtain What's New Text
+5. Obtain App Screenshots
+6. Create a new version in App Store Connect. Enter app metadata.
+7. Choose the build to submit. Review pricing and availability. Submit your app for review.
+8. Track app status and resolve review issues if any.
+
+
 
