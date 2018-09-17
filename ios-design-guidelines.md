@@ -8,17 +8,17 @@ A good balance between the two 'brand specific' and 'platform specific' approach
 
 #### Brand Specific
 
-Icons
-Colors
-Typography
+- Icons
+- Colors
+- Typography
 
 #### Platform Specific
 
-Navigation
-Forms
-Lists
-Grids
-UI Components/Controls
+- Navigation
+- Forms
+- Lists
+- Grids
+- UI Components/Controls
 
 ##### Color
 ##### Terminology
