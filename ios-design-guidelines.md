@@ -2,6 +2,24 @@
 
 ## Branding
 
+When making UI choices for mockups, a common consideration is deciding between building and adopting a custom experience specific to the brand, or using out-of-the-box components native to the platform. I tend to prefer the latter because users using the app for the first time are more familiar with the platform than the brand. Also, one must consider a cost-benefit approach in order to justify the customization effort involved in building these custom components. 
+
+A good balance between the two 'brand specific' and 'platform specific' approaches is a balanced mix of te two. 
+
+#### Brand Specific
+
+Icons
+Colors
+Typography
+
+#### Platform Specific
+
+Navigation
+Forms
+Lists
+Grids
+UI Components/Controls
+
 ##### Color
 ##### Terminology
 ##### Typography
